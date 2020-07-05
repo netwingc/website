@@ -20,8 +20,8 @@ Index
 <a name="desc"></a>
 ## 1. Description Environment
 
-#### Server: 
-server name:  ML-NDB
+**Server:** 
+* server name:  ML-NDB
 gateway address: ml.magnalabs.co.uk  (81.149.45.236)
 OS : Windows Server 2016 Standard 64bit
 
