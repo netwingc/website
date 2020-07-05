@@ -72,7 +72,7 @@ Q Is the structure of roles and users clear and logical (like groups for common 
 
 **Production database**
 
-**Connect string:**
+*1 **Connect string:**
 *	**Host name :** ml.magnalabs.co.uk  
 *	**Port:** 1521
 *	**Service name:** NPROD
