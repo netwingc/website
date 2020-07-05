@@ -22,8 +22,8 @@ Index
 
 **Server:** 
 * server name:  ML-NDB
-gateway address: ml.magnalabs.co.uk  (81.149.45.236)
-OS : Windows Server 2016 Standard 64bit
+* gateway address: ml.magnalabs.co.uk  (81.149.45.236)
+* OS : Windows Server 2016 Standard 64bit
 
 Database server
 Version :  12c Standard Edition Release 12.2.0.1.0 - 64bit 
