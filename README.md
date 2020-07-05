@@ -20,7 +20,7 @@ Index
 <a name="desc"></a>
 ## 1. Description Environment
 
-**Windoes Server** 
+**Windows Server** 
 * **Server name:**     ML-NDB
 * **Gateway address:** ml.magnalabs.co.uk  (81.149.45.236)
 * **OS :**             Windows Server 2016 Standard 64bit
@@ -29,13 +29,12 @@ Index
 * **Version :**  12c Standard Edition Release 12.2.0.1.0 - 64bit 
 * **Patch level:** No patches installed
 
-
-
 <a name="backup"></a>
 ## 2. Backup
 
-Period of full backup, incremental, where is it stored
-Q Is the risk in balance with the importants of the data and the lost in hours, what can be better. Answer in the Tips document.
+At the time of the intake (01-07-2020), no RMAN backups can be found.  
+There is a daily job that runs at 19:00 every day, which exports the schemas 'LIMS' and 'LIMS_SYS'. (The last successful run was at 28-06-2020)
+
 
 <a name="Maintenance"></a>
 ## 3. Maintenance
