@@ -29,16 +29,6 @@ Index
 * **Version :**  12c Standard Edition Release 12.2.0.1.0 - 64bit 
 * **Patch level:** No patches installed
 
-**Databases:**
-**Production database**
-
-**Connect string:**
-•	host name : ml.magnalabs.co.uk  
-•	port: 1521
-•	service name : NPROD
-•	Multitenant  : Non container database
-•	Archiving mode : NOARCHIVELOG
-
 
 
 <a name="backup"></a>
@@ -80,7 +70,16 @@ Q Is the structure of roles and users clear and logical (like groups for common 
 <a name="Connection"></a>
 ## 8. Connection
 
-- To build and test connection, How and what, (firewall, default applications, tests). 
+**Databases:**
+**Production database**
+
+**Connect string:**
+*	host name : ml.magnalabs.co.uk  
+*	port: 1521
+*	service name : NPROD
+*	Multitenant  : Non container database
+*	Archiving mode : NOARCHIVELOG
+
 
 <a name="Security"></a>
 ## 9. Security
