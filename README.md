@@ -33,7 +33,7 @@ Index
 ## 2. Backup
 
 At the time of the intake (01-07-2020), no RMAN backups can be found.  
-There is a daily job that runs at 19:00 every day, which exports the schemas 'LIMS' and 'LIMS_SYS'. (The last successful run was at 28-06-2020)
+There is a daily job running at 19:00 every day, which exports the schemas 'LIMS' and 'LIMS_SYS'. (The last successful run was at 28-06-2020)
 
 
 <a name="Maintenance"></a>
@@ -56,10 +56,14 @@ Q Is the existing structure correct and a known system ?
 
 <a name="Log"></a>
 ## 5. Log
-Q On what level is log configured and does it cover.
+The usual logs can be found in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod'.
 
 <a name="Schemas"></a>
 ## 6. Schemas 
+
+* LIMS
+* LIMS_SYS
+* LIMS_SECURITY
 
 <a name="Roles"></a>
 ## 7 Roles and Users
