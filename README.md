@@ -70,17 +70,17 @@ Q Is the structure of roles and users clear and logical (like groups for common 
 <a name="Connection"></a>
 ## 8. Connection
 
-**Production database**
+### Production database**
 
-**Connect string:**
+#### Connect string:**
 *	**Host name :** ml.magnalabs.co.uk  
 *	**Port:** 1521
 *	**Service name:** NPROD
 
 
-#### Test database
+### Test database
 
-**Connect string:**
+#### Connect string:**
 
 * **Host name:** ml.magnalabs.co.uk
 * **Port:** 1521
