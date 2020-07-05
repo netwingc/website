@@ -70,7 +70,7 @@ Q Is the structure of roles and users clear and logical (like groups for common 
 <a name="Connection"></a>
 ## 8. Connection
 
-**Databases:**
+**Databases:**  
 **Production database**
 
 **Connect string:**
