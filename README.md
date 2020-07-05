@@ -73,12 +73,19 @@ Q Is the structure of roles and users clear and logical (like groups for common 
 **Production database**
 
 **Connect string:**
-*	host name : ml.magnalabs.co.uk  
-*	port: 1521
-*	service name : NPROD
-*	Multitenant  : Non container database
-*	Archiving mode : NOARCHIVELOG
+*	**Host name :** ml.magnalabs.co.uk  
+*	**Port:** 1521
+*	**Service name:** NPROD
+*	**Multitenant:** Non container database
+*	**Archiving mode:** NOARCHIVELOG
 
+**Test database**
+
+**Connect string:**
+
+* host name : ml.magnalabs.co.uk
+* port: 1521
+* service name : NPROD
 
 <a name="Security"></a>
 ## 9. Security
