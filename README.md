@@ -56,7 +56,9 @@ Q Is the existing structure correct and a known system ?
 
 <a name="Log"></a>
 ## 5. Log
-The usual logs can be found in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod'.
+
+The alert log of NPROD can be found in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod\trace'.
+
 
 <a name="Schemas"></a>
 ## 6. Schemas 
