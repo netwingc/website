@@ -26,8 +26,19 @@ Index
 * **OS :**             Windows Server 2016 Standard 64bit
 
 **Database server**
-* Version :  12c Standard Edition Release 12.2.0.1.0 - 64bit 
-* Patch level: No patches installed
+* **Version :**  12c Standard Edition Release 12.2.0.1.0 - 64bit 
+* **Patch level:** No patches installed
+
+**Databases:**
+**Production database**
+
+**Connect string:**
+•	host name : ml.magnalabs.co.uk  
+•	port: 1521
+•	service name : NPROD
+•	Multitenant  : Non container database
+•	Archiving mode : NOARCHIVELOG
+
 
 
 <a name="backup"></a>
