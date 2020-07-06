@@ -69,10 +69,11 @@ The alert log of NPROD (alert_nprod.log) resides in 'E:\app\Administrator\virtua
 
 <a name="Roles"></a>
 ## 7 Roles and Users
+
+**ROLES**
  
- * LIMS_READONLY
- * LIMS_USER
- 
+ * **LIMS_READONLY:** Grant SELECT access to all views within the LIMS_SYS schema to the user.
+ * **LIMS_USER:** Grant full access to all views within the LIMS_SYS schema to the user.
 
 <a name="Connection"></a>
 ## 8. Connection
