@@ -106,4 +106,5 @@ The alert log of NPROD (alert_nprod.log) resides in 'E:\app\Administrator\virtua
 
 Q Can rights been reduced without losing functionality
 
+<a name="Remarks"></a>
 ## 10. Remarks
