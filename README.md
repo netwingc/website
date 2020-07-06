@@ -27,7 +27,7 @@ Index
 * **OS :**             Windows Server 2016 Standard 64bit
 
 **Database server**
-* **Version :**  12c Standard Edition Release 12.2.0.1.0 - 64bit 
+* **Version:**  12c Standard Edition Release 12.2.0.1.0 - 64bit 
 * **Patch level:** No patches installed
 
 <a name="backup"></a>
@@ -58,7 +58,10 @@ Q Is the existing structure correct and a known system ?
 <a name="Log"></a>
 ## 5. Log
 
-The alert log of NPROD (alert_nprod.log) resides in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod\trace'.
+Logs can be found in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod'.
+One of the most helpful log file is the alert log.
+This file (alert_nprod.log) can be found in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod\trace'. 
+
 
 
 <a name="Schemas"></a>
@@ -77,7 +80,7 @@ The alert log of NPROD (alert_nprod.log) resides in 'E:\app\Administrator\virtua
  * **LIMS_USER:** Grant full access to all views within the LIMS_SYS schema to the user.
  
  These two roles are assigned to all Nautilus users, except for the 'NAUTILUS_PROXY' user. This account has only the **CREATE_SESSION** privilege.
- Beside the above mentioned two role, the **DBA** role is assigned to user 'LIMS'.
+ Beside the above mentioned two roles, the **DBA** role is assigned to user 'LIMS'.
  
 
 <a name="Connection"></a>
