@@ -69,8 +69,10 @@ The alert log of NPROD (alert_nprod.log) resides in 'E:\app\Administrator\virtua
 
 <a name="Roles"></a>
 ## 7 Roles and Users
-- Is the DB connected to a main system for user rights and roles
-Q Is the structure of roles and users clear and logical (like groups for common access).
+ 
+ * LIMS_READONLY
+ * LIMS_USER
+ 
 
 <a name="Connection"></a>
 ## 8. Connection
