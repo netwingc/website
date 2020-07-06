@@ -16,7 +16,7 @@ Index
 7. [ Roles ](#Roles)
 8. [ Connection ](#Connection)
 9. [ Security ](#Security)
-10. [ Remarks ](#Pietje)
+10. [ Remarks ](#Remarks)
 
 <a name="desc"></a>
 ## 1. Description Environment
@@ -106,4 +106,4 @@ The alert log of NPROD (alert_nprod.log) resides in 'E:\app\Administrator\virtua
 
 Q Can rights been reduced without losing functionality
 
-## 10. Remarks and recommendations
+## 10. Remarks
