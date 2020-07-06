@@ -16,7 +16,7 @@ Index
 7. [ Roles ](#Roles)
 8. [ Connection ](#Connection)
 9. [ Security ](#Security)
-10. [ Remarks and recommendations ](#R and R)
+10. [ Security ](#Security)
 
 <a name="desc"></a>
 ## 1. Description Environment
