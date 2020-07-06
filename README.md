@@ -57,7 +57,7 @@ Q Is the existing structure correct and a known system ?
 <a name="Log"></a>
 ## 5. Log
 
-The alert log of NPROD can be found in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod\trace'.
+The alert log of NPROD (alert_nprod.log) resides in 'E:\app\Administrator\virtual\diag\rdbms\nprod\nprod\trace'.
 
 
 <a name="Schemas"></a>
