@@ -111,3 +111,11 @@ Q Can rights been reduced without losing functionality
 
 <a name="Remarks"></a>
 ## 10. Remarks
+
+* Need a registerd account for Oracle Service to apply SR's and download Patches (Every customer with a valid Oracle license has one)
+* Need to set up Oracle backup and disaster recovery
+* Both Test an production databases are installed in one machine
+* DBA role is granted to user LIMS, LIMS has far more privileges than needed
+* Password of sys from NPROD seems not right
+* User Nautilusbackground is the most active user, why?
+
