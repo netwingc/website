@@ -100,7 +100,7 @@ This file (alert_nprod.log) can be found in 'E:\app\Administrator\virtual\diag\r
 
 * **Host name:** ml.magnalabs.co.uk
 * **Port:** 1521
-* **Service name:** NPTEST
+* **Service name:** NTEST
 
 <a name="Security"></a>
 ## 9. Security
